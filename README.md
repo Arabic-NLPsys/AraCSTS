@@ -12,10 +12,12 @@ Dataset Structure
 
 The repository contains the train, development, and test splits used in our experiments:
 
+```text
 data/
 ├── train.csv
 ├── dev.csv
 └── test.csv
+```
 
 The final dataset contains:
 
