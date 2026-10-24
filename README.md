@@ -1,5 +1,4 @@
-# AraCSTS
-# Arabic Conditional Semantic Textual Similarity Dataset
+# Arabic Conditional Semantic Textual Similarity Dataset (AraCSTS)
 
 This repository contains the Arabic Conditional Semantic Textual Similarity (C-STS) dataset introduced in our study.
 
