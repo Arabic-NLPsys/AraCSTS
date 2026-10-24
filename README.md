@@ -2,6 +2,8 @@
 
 This repository contains the Arabic Conditional Semantic Textual Similarity (C-STS) dataset introduced in our study.
 
+The dataset files will be released upon acceptance of the associated paper.
+
 The dataset was created by translating and adapting the **C-STS-Reannotated** dataset into Modern Standard Arabic (MSA). It is intended to support research on conditional semantic textual similarity in Arabic.
 
 ## Dataset Structure
